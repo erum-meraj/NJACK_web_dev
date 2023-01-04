@@ -1,0 +1,30 @@
+body{
+    background-color: #6E85B7;
+}
+
+.main_cont{
+    padding: 25%;
+    padding-top: 7%;
+    background-color: #001E6C;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 3rem;
+    color: #Ffffff;
+}
+
+label{
+    font-family: 'Montserrat';
+    font-size: 1.4rem;
+    font-weight: 200;
+    color: #Ffffff;
+    
+
+
+}
+button{
+    margin-left: 40%;
+}
